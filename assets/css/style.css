@@ -12,6 +12,7 @@ body{
     background-color:rgb(249, 249, 249);
 }
 .container_form{
+    
     background-color:rgb(249, 249, 249);
     width: 512px;
     height: 749px;
@@ -20,4 +21,19 @@ body{
 .container_image{
     background-color: aquamarine;
     width: 1024px;
+}
+
+.container_form_icons{
+    display:flex;
+
+}
+
+#logoForm{
+   margin-left:70px; 
+   margin-top: 50px;
+}
+
+#iconQuestion{
+    margin-top: 70px;
+    margin-left: 256px;
 }
