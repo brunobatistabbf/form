@@ -4,3 +4,10 @@ body{
     margin: 0%;
     padding: 0%;
 }
+
+.container_global{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    background-color: red;
+}
