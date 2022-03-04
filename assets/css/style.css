@@ -15,16 +15,18 @@ body{
     
     background-color:rgb(249, 249, 249);
     width: 512px;
-    height: 749px;
+    height: 740px;
 }
 
 .container_image{
-    background-color: aquamarine;
     width: 1024px;
+    height: auto;
 }
 
+/* Logos do formulario*/
 .container_form_icons{
     display:flex;
+    margin-bottom: 50px;
 
 }
 
@@ -36,4 +38,11 @@ body{
 #iconQuestion{
     margin-top: 70px;
     margin-left: 256px;
+}
+
+/* Formulario*/
+.container_title{
+    font-size: 35px;
+    margin-left: 70px;
+    margin-bottom: 30px;
 }
