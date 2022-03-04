@@ -5,9 +5,19 @@ body{
     padding: 0%;
 }
 
-.container_global{
+.container_global {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     flex-direction: row;
-    background-color: red;
+    background-color:rgb(249, 249, 249);
+}
+.container_form{
+    background-color:rgb(249, 249, 249);
+    width: 512px;
+    height: 749px;
+}
+
+.container_image{
+    background-color: aquamarine;
+    width: 1024px;
 }
