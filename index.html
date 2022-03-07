@@ -25,13 +25,23 @@
                 <b>Insira sua Conta Riot</b>
             </div>
 
-            <fieldset id="cadastroField">
-                <form action="assets/js/cadastro.js" method="post" id="cadastroForm">
+            <div class="containerForm">
 
+                <form action="assets/js/cadastro.js" method="post" id="formulario">
+                    <label for="user">
+                        <b>Nome de Usuário</b>
+                        <br>
+                        <input type="text" required minlength="5" id="campoForm" />
+                        <br />
+                        <br />
+                        <b>Senha</b>
+                        <br>
+                        <input type="password" id="campoForm" class="senha" minlength="8" required>
 
-
+                    </label>
                 </form>
-            </fieldset>
+
+            </div>
 
         </div>
         <div class="container_image">

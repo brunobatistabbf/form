@@ -47,3 +47,22 @@ body{
     margin-bottom: 30px;
 }
 
+#formulario{
+    margin-left: 70px;
+}
+#formulario b{
+    color: rgb(126, 126, 126);
+}
+#campoForm{
+    margin-top: 10px;
+    padding-right: 150px;
+    padding-bottom: 20px;
+    border-color: black;
+    background-color: #F9F9F9;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.senha{
+   
+}
