@@ -3,6 +3,8 @@ body{
     background-color: rgb(249, 249, 249);
     margin: 0%;
     padding: 0%;
+    overflow-y:hidden;
+    overflow-x:hidden;
 }
 
 .container_global {
@@ -20,7 +22,7 @@ body{
 
 .container_image{
     width: 1024px;
-    height: auto;
+    height: 730px;
 }
 
 /* Logos do formulario*/
